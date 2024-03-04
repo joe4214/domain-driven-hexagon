@@ -1,6 +1,6 @@
 # Domain-Driven Hexagon
 
-New line 1
+New line 2
 
 **Check out my other repositories**:
 
